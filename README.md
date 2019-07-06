@@ -6,7 +6,7 @@ Dan Li working on FX Trading Analysis.
 
 ## Project Phases:
 
-### Phase 1: Basic Chart with Analysis Options
+### Phase 1: Basic Chart with Analysis Options -> Project #2
 
 #### Functions:
 
@@ -29,7 +29,18 @@ Dan Li working on FX Trading Analysis.
 * Plotly Bar Chart for all trade data. (green for made $, red for lost $)
 * List Summary FX pair trade data in table
 
-### Phase 2: Multiple Chart per Analysis Option
+### Phase 2: Multiple Chart per Analysis Option -> Final Project 
+1. Machine Learning on FX data
+2. Machine Learning on User Trading Data
+
+Based on the Machine learning project (outlined above) selected, the following steps will be done:
+
+1. Web scrapting for Forex calender
+2. Web scrapting for major world events
+3. Write web scraping data to sql database
+4. Build data model for Machine Learning
+
+### Phase 3: Multiple Chart per Analysis Option
 
 1. FX General Info:
 * API call to get last 365 days of general FX pair data
@@ -46,7 +57,7 @@ Dan Li working on FX Trading Analysis.
 * Plotly Bar Chart for all trade data. (green for made $, red for lost $)
 * Table of FX pair trade data
 
-### Phase 3: Advanced Custom features
+### Phase 4: Advanced Custom features
 * Allow user upload their own trading data for analysis 
 * Add important dates to the exsiting chart (release of important contry data releases)  
 * Allow user to add text to chart (i.e. Important event)?
