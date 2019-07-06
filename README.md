@@ -2,7 +2,7 @@
 
 ## Background
 
-Dan Li working on FX Trading Analysis.
+Dan Li working on FX Analysis
 
 ## Project Phases:
 
