@@ -39,6 +39,7 @@ Based on the Machine learning project (outlined above) selected, the following s
 2. Web scrapting for major world events
 3. Write web scraping data to sql database
 4. Build data model for Machine Learning
+5. Train and predict 
 
 ### Phase 3: Multiple Chart per Analysis Option
 
