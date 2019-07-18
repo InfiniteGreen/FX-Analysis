@@ -29,7 +29,7 @@ Dan Li working on FX Analysis
 * Plotly Bar Chart for all trade data. (green for made $, red for lost $)
 * List Summary FX pair trade data in table
 
-### Phase 2: Multiple Chart per Analysis Option -> Final Project 
+### Phase 2: Machine Learning -> Final Project 
 1. Machine Learning on FX data
 2. Machine Learning on User Trading Data
 
