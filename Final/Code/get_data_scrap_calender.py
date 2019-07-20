@@ -91,4 +91,4 @@ if __name__ == "__main__":
     """
     
     setLogger()
-    getEconomicCalendar("calendar.php?week=dec28.2014","calendar.php?week=jul7.2019")
+    getEconomicCalendar("calendar.php?week=dec27.2009","calendar.php?week=dec28.2014")

@@ -10,7 +10,7 @@ from datetime import date
 fx_list = ["AUD_USD","EUR_USD","GBP_USD","NZD_USD","USD_CAD","USD_CHF","USD_JPY"]
 
 for fx in fx_list:
-    url = f"https://api-fxtrade.oanda.com/v1/candles?instrument={fx}&candleFormat=midpoint&granularity=D&start=2015-01-01&end=2019-07-13"
+    url = f"https://api-fxtrade.oanda.com/v1/candles?instrument={fx}&candleFormat=midpoint&granularity=D&start=1999-12-31&end=2005-01-01"
     response = requests.get(url)
 
     # Printing the text from the responses
