@@ -31,13 +31,13 @@ Dan Li working on FX Analysis
 
 ### Phase 2: Machine Learning -> Final Project 
 1. Machine Learning on FX data
-2. Machine Learning on User Trading Data
+2. Machine Learning on User Trading Data -- Later
 
 Based on the Machine learning project (outlined above) selected, the following steps will be done:
 
 1. Web scrapting for Forex calender
-2. Web scrapting for major world events
-3. Write web scraping data to sql database
+2. Web scrapting for major world events -- Later
+3. Write web scraping data to sql database -- Later
 4. Build data model for Machine Learning
 5. Train and predict 
 
