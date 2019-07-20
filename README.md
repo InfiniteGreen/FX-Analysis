@@ -6,7 +6,7 @@ Dan Li working on FX Analysis
 
 ## Project Phases:
 
-### Phase 1: Basic Chart with Analysis Options -> Project #2
+### Phase 1: Basic Chart with Analysis Options 
 
 #### Functions:
 
@@ -29,7 +29,7 @@ Dan Li working on FX Analysis
 * Plotly Bar Chart for all trade data. (green for made $, red for lost $)
 * List Summary FX pair trade data in table
 
-### Phase 2: Machine Learning -> Final Project 
+### Phase 2: Machine Learning  
 1. Machine Learning on FX data
 2. Machine Learning on User Trading Data -- Later
 
